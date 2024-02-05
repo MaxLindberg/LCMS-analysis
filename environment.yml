@@ -1,0 +1,15 @@
+name: LCMS-analysis
+dependencies:
+  - python <3.12
+  - pandas
+  - plotly
+  - numpy
+  - matplotlib
+  - pip
+  - pip:
+    - polars
+    - jupyterlab
+    - pyopenms
+    - kaleido
+
+
