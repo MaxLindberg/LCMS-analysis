@@ -11,7 +11,7 @@ bash Miniforge3-$(uname)-$(uname -m).sh
 3. Create and enter a new conda environment with the required python packages by navigating to the local copy (clone) of this repository in a terminal on your computer and type: 
 ```
 mamba env create -f environment.yml
-conda activate max
+conda activate LCMS-analysis
 ```
 4. Start a jupyter lab instance by typing: 
 ```
