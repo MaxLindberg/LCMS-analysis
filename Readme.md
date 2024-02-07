@@ -2,7 +2,7 @@
 
 
 ## Instructions
-1. Install [conda/mamba](https://docs.conda.io/en/latest/miniconda.html) or [regular anaconda](https://docs.anaconda.com/anaconda/install/index.html)
+1. Install [conda/mamba](https://github.com/conda-forge/miniforge) or [regular anaconda](https://docs.anaconda.com/anaconda/install/index.html). For Windows, follow the instructions in the links. For Unix systems, just run:
 ```
 curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 bash Miniforge3-$(uname)-$(uname -m).sh
